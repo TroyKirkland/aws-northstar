@@ -22,7 +22,7 @@ To be ** the ** holistic design system for rapidly prototyping rich, engaging us
 Eliminate the need for configuration, simplifying the developer experience, decreasing the time from design to implementation.
 
 #### 2. Be opinionated as it accelerates development
-NorthStar is a design system. It is prescriptive and should always care of the undifferentiated heavy lifting of CSS, layout and stlying.
+NorthStar is a design system. It is prescriptive and should always care of the undifferentiated heavy lifting of CSS, layout and styling.
 
 #### 3. Eat our own dog food
 We consume what we produce. NorthStar should remain self-documenting, always include a storybook and allow developers to experiment.
